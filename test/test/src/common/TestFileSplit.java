@@ -26,6 +26,7 @@ public class TestFileSplit {
 				num++;
 			}
 			pw.flush();
+			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
